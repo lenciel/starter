@@ -1,4 +1,4 @@
-**This repo is supposed to be used as config by NvChad users!**
+git clone https://github.com/lenciel/starter ~/.config/nvim && nvim
 
 - The main nvchad repo (NvChad/NvChad) is used as a plugin by this repo.
 - So you just import its modules , like `require "nvchad.options" , require "nvchad.mappings"`
